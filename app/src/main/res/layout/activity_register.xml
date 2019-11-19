@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/background_gradient">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="REGISTER"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:layout_marginTop="70dp"
+        android:textColor="#fff"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama"
+        android:id="@+id/edtnama"
+        android:textColorHint="#fff"
+        android:padding="8dp"
+        android:background="@drawable/background_edittext"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:id="@+id/edtUsername"
+        android:textColorHint="#fff"
+        android:padding="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/background_edittext"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:id="@+id/edtPassword"
+        android:inputType="textPassword"
+        android:textColorHint="#fff"
+        android:padding="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/background_edittext"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:id="@+id/btnRegister"
+        android:background="@drawable/background_button"
+        android:fontFamily="cursive"
+        android:textColor="#fff"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Have an account"
+        android:textColor="#fff"
+        android:layout_marginTop="8dp"
+        android:id="@+id/txtLogin"/>
+
+</LinearLayout>

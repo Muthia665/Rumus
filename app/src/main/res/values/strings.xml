@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Rumus</string>
+    <string name="Home">
+        Namaku : Muthia Zalva Azizah\n\n
+        Kelas  : 1 SMP\n\n\n
+        Pengertian dan Tujuan : Aplikasi ini adalah aplikasi tentang rumus-rumus bangun datar, Pengertian bangun datar tersebut,
+        dan tujuan-nya membuat aplikasi ini adalah untuk memudahkan orang yang ingin tahu tentang rumus-rumus bangun datar.\n\n
+        sekian dari aku :)
+    </string>
+
+    <string name="Persegi">
+        Persegi adalah bangun datar dua dimensi yang dibentuk empat buah rusuk (a)
+        yang sama panjang dan memiliki empat buah sudut yang kesemuanya adalah sudut siku-siku
+        bangun ini juga di sebut BUJUR SANGKAR.
+    </string>
+
+    <string name="Persegi_Panjang">
+        Persegi panjang adalah bangun datar DUA DIMENSI yang dibentuk oleh dua pasang RUSUK yang
+        masing-masing sama panjang dan SEJAJAR dengan pasanganya,
+        dan memiliki enpat buah SUDUT yang kesemuanya adalah SUDUT SIKU-SIKU.\n\n\n
+        Rusuk terpanjang disebut sebagai PANJANG (p) dan rusuk terpendek disebut sebagai LEBAR (l).
+    </string>
+
+    <string name="Segitiga">
+        Segitiga adalah nama suatu bentuk ang dibuat dari tiga sisi yang berupa garis lurus dan tiga SUDUT.\n
+        Matematikawan Euclid yang hidup selama 300 SM menemukan bahwa jumlah ketiga sudut disuatu segitiga pada bidang datar adalah 180 derajat .\n\n\n
+        Macam- Macam segitiga : \n\n
+        1. Segitiga sama sisi : adalah segitiga yang panjang kakinya sama panjang, sebagai akibatnya semua sudutnya juga sama besar, yaitu 60o.\n\n
+        2. Segitiga sembarang : adaalah segitiga yang ketiga sisinya berbeda panjangnya, besar semua sudutnya juga berbeda.\n\n
+        3. Segitiga sama kaki : adalah segitiga yang dua dari tiga sisinya sama panjang, segitiga ini mempuyai sudut yang besar.\n\n
+        4. DLL.
+    </string>
+
+    <string name="Jajar_Genjang">
+        Jajar genjang atau jajaran genjang adalah bangun datar DUA DIMENSI yang dibentuk oleh dua pasang RUSUK yang masing-masing sama panjang
+        dan SEJAJAR dengan pasanganya, dan memiliki dua pasang SUDUT yang masing-masing sama besar dengan sudut dihadapanya.\n\n\n
+        Jajar genjang dengan empat rusuk yang sama panjang disebut BELAH KETUPAT.
+    </string>
+
+    <string name="Trapesium">
+        Trapesium adalah bangun datar DUA DIMENSI yang dibentuk oleh empat buah RUSUK yang dua di antaranya saling SEJAJAR namun tidak sama panjang.\n
+        Trapesium ada dua jenis :\n\n
+        1. Trapesium siku-siku (Sembarang) : yaitu trapesium yang keempat rusuknya tidak sama panjang. Trapesium ini tidak memiliki simetri lipat dan hanya memiliki 1 simetri putar.\n\n
+        2. Trapesium sama kaki :yaitu trapesium yang mempunyai sepasang rusuk yang sama panjang, di samping mempunyai sepasang rusuk yang sejajar. Trapesium ini memiliki 1 simetri lipat dan 1 simetri putar.\n\n
+        3. Trapesium siku-siku : yaitu trapesium yang mana dua di antara keempat sudutnya merupakan sudut SIKU-SIKU. Rusuk-rusuk yang sejajar tegak lurus dengan tinggi trapesium ini. Trapesium ini tidak memiliki simetri lipat dan hanya memiliki satu simetri putar.
+    </string>
+
+    <string name="Layang_layang">
+        Layang-layang adalah bangun datar DUA DIMENSI yang dibentuk oleh dua pasang RUSUK yang masing-masing pasangannya sama panjang dan saling membentuk sudut.\n
+        Layang-layang merupakan turunan dari segiempat yang mempunyai ciri khusus dua sisi yang membentuk sudut sama panjang dan besaran sudut yang saling berhadapan sama besar.\n\n
+        Layang-layang dengan keempat rusuk yang sama panjang disebut belah ketupat.
+
+    </string>
+
+    <string name="Belah_ketupat">
+        Belah ketupat adalah bangun datar DUA DIMENSI yang dibentuk oleh empat buah RUSUK yang sama panjang, dan memiliki dua pasang sudut bukan SIKU-SIKU.\n\n
+        Belah ketupat dapat dibangun dari dua buah SEGITIGA SAMA KAKI identik yang SIMETRI pada alas-alasnya.
+    </string>
+
+    <string name="Lingkaran">
+        Lingkaran adalah himpunan semua titik di bidang datar yang berjarak sama dari suatu titik tetap di bidang tersebut.
+    </string>
+
+    <string name="Persegi2">
+        Rumus PERSEGI :\n\n\n
+        - Luas Persegi = S x S   }   S : sisi\n
+            = S²\n\n
+
+        - Keliling Persegi = S + S + S + S    }   S : sisi\n
+            = S x 4
+    </string>
+
+    <string name="Persegi_Panjang_2">
+        Rumus PERSEGI PANJANG : \n\n\n
+        - Luas Persegi Panjang = P x L\n
+            P : Panjang x L : Lebar\n\n
+        - Keliling Persegi Panjang = P + L + P + L\n
+            2 x (Panjang x Lebar)
+    </string>
+
+    <string name="Segitiga_2">
+        Rumus SEGITIGA : \n\n\n
+        - Luas Segitiga = 1/2 x alas x tinggi \n\n
+        - Keliling = sisi + sisi +sisi
+    </string>
+
+    <string name="Jajar_Genjang_2">
+        Rumus Jajar Genjang : \n\n\n
+        - Luas = Alas x Tinggi\n\n
+        - Keliling = (2 x alas) + (2 x sisi miring)
+    </string>
+
+    <string name="Trapesium_2">
+        Rumus Trapesium : \n\n\n
+        - Luas = 1/2 x (a + b) x t  atau  = jumlah sisi sejajar x tinggi/2\n\n
+        - Keliling = Semua sisi dijumlahkan.
+    </string>
+
+    <string name="Layang_Layang_2">
+        Rumus Layang-Layang : \n\n\n
+        - Luas = diagonal 1 x diagonal 2 : 2\n\n
+        - Keliling = Jumlah semua sisi atau = a + b + c + d
+    </string>
+
+    <string name="Belah_Ketupat_2">
+        Rumus Belah Ketupat : \n\n\n
+        - Luas = 1/2 x diagonal 1 x diagonal 2\n\n
+        - Keliling = 4 x sisi atau = jumlah dari panjang semua sisi
+    </string>
+
+    <string name="Lingkaran_2">
+        Rumus Lingkaran : \n\n\n
+        - Luas = πr²\n\n
+        - Keliling = 2πr
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
